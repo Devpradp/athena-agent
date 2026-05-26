@@ -1,1 +1,2 @@
 # athena-agent
+What will Athena do? (Default vision: "Ingests my study materials/notes/PDFs, answers questions with citations, tags and organizes documents, and can take multi-step actions using tools.") You can theme it to anything — legal docs, research papers, a hobby — but keep the shape the same.
